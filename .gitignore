@@ -1,3 +1,4 @@
 *~
-pytorch/data/
-pytorch/model.pth
+python/
+mytorch/data/
+mytorch/model.pth
